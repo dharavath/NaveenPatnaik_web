@@ -1,0 +1,13 @@
+socket.io tutorial ---                     https://www.tutorialspoint.com/socket.io/index.htm
+
+webchat application  youtube video  
+https://www.youtube.com/watch?v=8Y6mWhcdSUM  - part1
+https://www.youtube.com/watch?v=hrRue5Rt6Is  - part2
+
+CRUD application -- video 
+https://www.youtube.com/watch?v=UYh6EvpQquw&list=LLCJpPSeLb1jEW3yj8HzDBoQ&index=2&t=1044s
+
+CRUD source code  https://goo.gl/i7xyGb
+
+login register video --   https://www.youtube.com/watch?v=6HX6AbIdKJ0&t=1949s
+ source code     https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/mean-mongodb-login-reg
